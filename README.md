@@ -1,4 +1,4 @@
-# New York City Vehicle Collisions: A Study of Brooklyn Bridge
+# New York City Vehicle Collisions: A Study of Brooklyn
 ---
 
 Group 20: Ngoc Hoang (nnh245), Uttam Mishra (ukm202)
